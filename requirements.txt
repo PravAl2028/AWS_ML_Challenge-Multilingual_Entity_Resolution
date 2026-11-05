@@ -1,0 +1,14 @@
+# Python 3.12 (tested). All libraries are permissively licensed (BSD / MIT / Apache-2.0 / ISC).
+numpy==2.5.3
+pandas==3.0.6
+pyarrow==25.0.1
+scipy==1.18.1
+scikit-learn==1.9.1
+lightgbm==4.7.0
+rapidfuzz==3.14.6
+anyascii==0.3.3
+# v8 character cross-encoder / v10 pretrained cross-encoder (GPU). torch: BSD-3, CUDA build matching the driver
+# (tested 2.14.0+cu130, see RUNBOOK_V8.md); transformers / tokenizers: Apache-2.0
+torch==2.14.0
+transformers==4.57.1
+tokenizers==0.22.1

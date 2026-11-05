@@ -1,0 +1,1664 @@
+{
+"US": {
+"al": [
+"al",
+1.0
+],
+"alabama": [
+"al",
+0.99
+],
+"ak": [
+"ak",
+1.0
+],
+"alaska": [
+"ak",
+0.99
+],
+"az": [
+"az",
+1.0
+],
+"arizona": [
+"az",
+0.99
+],
+"ar": [
+"ar",
+1.0
+],
+"arkansas": [
+"ar",
+0.99
+],
+"ca": [
+"ca",
+1.0
+],
+"california": [
+"ca",
+0.99
+],
+"co": [
+"co",
+1.0
+],
+"colorado": [
+"co",
+0.99
+],
+"ct": [
+"ct",
+1.0
+],
+"connecticut": [
+"ct",
+0.99
+],
+"de": [
+"de",
+1.0
+],
+"delaware": [
+"de",
+0.99
+],
+"dc": [
+"dc",
+1.0
+],
+"district of columbia": [
+"dc",
+0.99
+],
+"washington dc": [
+"dc",
+0.99
+],
+"washington d.c.": [
+"dc",
+0.99
+],
+"fl": [
+"fl",
+1.0
+],
+"florida": [
+"fl",
+0.99
+],
+"ga": [
+"ga",
+1.0
+],
+"georgia": [
+"ga",
+0.99
+],
+"hi": [
+"hi",
+1.0
+],
+"hawaii": [
+"hi",
+0.99
+],
+"id": [
+"id",
+1.0
+],
+"idaho": [
+"id",
+0.99
+],
+"il": [
+"il",
+1.0
+],
+"illinois": [
+"il",
+0.99
+],
+"in": [
+"in",
+1.0
+],
+"indiana": [
+"in",
+0.99
+],
+"ia": [
+"ia",
+1.0
+],
+"iowa": [
+"ia",
+0.99
+],
+"ks": [
+"ks",
+1.0
+],
+"kansas": [
+"ks",
+0.99
+],
+"ky": [
+"ky",
+1.0
+],
+"kentucky": [
+"ky",
+0.99
+],
+"la": [
+"la",
+1.0
+],
+"louisiana": [
+"la",
+0.99
+],
+"me": [
+"me",
+1.0
+],
+"maine": [
+"me",
+0.99
+],
+"md": [
+"md",
+1.0
+],
+"maryland": [
+"md",
+0.99
+],
+"ma": [
+"ma",
+1.0
+],
+"massachusetts": [
+"ma",
+0.99
+],
+"mi": [
+"mi",
+1.0
+],
+"michigan": [
+"mi",
+0.99
+],
+"mn": [
+"mn",
+1.0
+],
+"minnesota": [
+"mn",
+0.99
+],
+"ms": [
+"ms",
+1.0
+],
+"mississippi": [
+"ms",
+0.99
+],
+"mo": [
+"mo",
+1.0
+],
+"missouri": [
+"mo",
+0.99
+],
+"mt": [
+"mt",
+1.0
+],
+"montana": [
+"mt",
+0.99
+],
+"ne": [
+"ne",
+1.0
+],
+"nebraska": [
+"ne",
+0.99
+],
+"nv": [
+"nv",
+1.0
+],
+"nevada": [
+"nv",
+0.99
+],
+"nh": [
+"nh",
+1.0
+],
+"new hampshire": [
+"nh",
+0.99
+],
+"nj": [
+"nj",
+1.0
+],
+"new jersey": [
+"nj",
+0.99
+],
+"nm": [
+"nm",
+1.0
+],
+"new mexico": [
+"nm",
+0.99
+],
+"ny": [
+"ny",
+1.0
+],
+"new york": [
+"ny",
+0.99
+],
+"nc": [
+"nc",
+1.0
+],
+"north carolina": [
+"nc",
+0.99
+],
+"nd": [
+"nd",
+1.0
+],
+"north dakota": [
+"nd",
+0.99
+],
+"oh": [
+"oh",
+1.0
+],
+"ohio": [
+"oh",
+0.99
+],
+"ok": [
+"ok",
+1.0
+],
+"oklahoma": [
+"ok",
+0.99
+],
+"or": [
+"or",
+1.0
+],
+"oregon": [
+"or",
+0.99
+],
+"pa": [
+"pa",
+1.0
+],
+"pennsylvania": [
+"pa",
+0.99
+],
+"ri": [
+"ri",
+1.0
+],
+"rhode island": [
+"ri",
+0.99
+],
+"sc": [
+"sc",
+1.0
+],
+"south carolina": [
+"sc",
+0.99
+],
+"sd": [
+"sd",
+1.0
+],
+"south dakota": [
+"sd",
+0.99
+],
+"tn": [
+"tn",
+1.0
+],
+"tennessee": [
+"tn",
+0.99
+],
+"tx": [
+"tx",
+1.0
+],
+"texas": [
+"tx",
+0.99
+],
+"ut": [
+"ut",
+1.0
+],
+"utah": [
+"ut",
+0.99
+],
+"vt": [
+"vt",
+1.0
+],
+"vermont": [
+"vt",
+0.99
+],
+"va": [
+"va",
+1.0
+],
+"virginia": [
+"va",
+0.99
+],
+"wa": [
+"wa",
+1.0
+],
+"washington": [
+"wa",
+0.978
+],
+"wv": [
+"wv",
+1.0
+],
+"west virginia": [
+"wv",
+0.99
+],
+"wi": [
+"wi",
+1.0
+],
+"wisconsin": [
+"wi",
+0.99
+],
+"wy": [
+"wy",
+1.0
+],
+"wyoming": [
+"wy",
+0.99
+],
+"pr": [
+"pr",
+1.0
+],
+"puerto rico": [
+"pr",
+0.99
+]
+},
+"India": {
+"andhra pradesh": [
+"andhra pradesh",
+1.0
+],
+"ap": [
+"andhra pradesh",
+0.99
+],
+"ఆంధ్రప్రదేశ్": [
+"andhra pradesh",
+0.99
+],
+"आंध्र प्रदेश": [
+"andhra pradesh",
+0.99
+],
+"arunachal pradesh": [
+"arunachal pradesh",
+1.0
+],
+"ar": [
+"arunachal pradesh",
+0.99
+],
+"अरुणाचल प्रदेश": [
+"arunachal pradesh",
+0.99
+],
+"assam": [
+"assam",
+1.0
+],
+"as": [
+"assam",
+0.99
+],
+"অসম": [
+"assam",
+0.99
+],
+"असम": [
+"assam",
+0.99
+],
+"bihar": [
+"bihar",
+1.0
+],
+"br": [
+"bihar",
+0.99
+],
+"बिहार": [
+"bihar",
+0.99
+],
+"chhattisgarh": [
+"chhattisgarh",
+1.0
+],
+"cg": [
+"chhattisgarh",
+0.99
+],
+"ct": [
+"chhattisgarh",
+0.99
+],
+"छत्तीसगढ़": [
+"chhattisgarh",
+0.99
+],
+"chattisgarh": [
+"chhattisgarh",
+0.99
+],
+"goa": [
+"goa",
+1.0
+],
+"ga": [
+"goa",
+0.99
+],
+"गोवा": [
+"goa",
+0.99
+],
+"gujarat": [
+"gujarat",
+1.0
+],
+"gj": [
+"gujarat",
+0.99
+],
+"ગુજરાત": [
+"gujarat",
+0.99
+],
+"haryana": [
+"haryana",
+1.0
+],
+"hr": [
+"haryana",
+0.99
+],
+"हरियाणा": [
+"haryana",
+0.99
+],
+"himachal pradesh": [
+"himachal pradesh",
+1.0
+],
+"hp": [
+"himachal pradesh",
+0.99
+],
+"हिमाचल प्रदेश": [
+"himachal pradesh",
+0.99
+],
+"jharkhand": [
+"jharkhand",
+1.0
+],
+"jh": [
+"jharkhand",
+0.99
+],
+"झारखंड": [
+"jharkhand",
+0.99
+],
+"झारखण्ड": [
+"jharkhand",
+0.99
+],
+"karnataka": [
+"karnataka",
+1.0
+],
+"ka": [
+"karnataka",
+0.99
+],
+"ಕರ್ನಾಟಕ": [
+"karnataka",
+0.99
+],
+"kerala": [
+"kerala",
+1.0
+],
+"kl": [
+"kerala",
+0.99
+],
+"keralam": [
+"kerala",
+0.99
+],
+"കേരളം": [
+"kerala",
+0.99
+],
+"madhya pradesh": [
+"madhya pradesh",
+1.0
+],
+"mp": [
+"madhya pradesh",
+0.99
+],
+"मध्य प्रदेश": [
+"madhya pradesh",
+0.99
+],
+"maharashtra": [
+"maharashtra",
+1.0
+],
+"mh": [
+"maharashtra",
+0.99
+],
+"महाराष्ट्र": [
+"maharashtra",
+0.99
+],
+"manipur": [
+"manipur",
+1.0
+],
+"mn": [
+"manipur",
+0.99
+],
+"meghalaya": [
+"meghalaya",
+1.0
+],
+"ml": [
+"meghalaya",
+0.99
+],
+"mizoram": [
+"mizoram",
+1.0
+],
+"mz": [
+"mizoram",
+0.99
+],
+"nagaland": [
+"nagaland",
+1.0
+],
+"nl": [
+"nagaland",
+0.99
+],
+"orissa": [
+"orissa",
+1.0
+],
+"odisha": [
+"orissa",
+0.99
+],
+"od": [
+"orissa",
+0.99
+],
+"or": [
+"orissa",
+0.99
+],
+"ଓଡ଼ିଶା": [
+"orissa",
+0.99
+],
+"punjab": [
+"punjab",
+1.0
+],
+"pb": [
+"punjab",
+0.99
+],
+"ਪੰਜਾਬ": [
+"punjab",
+0.99
+],
+"rajasthan": [
+"rajasthan",
+1.0
+],
+"rj": [
+"rajasthan",
+0.99
+],
+"राजस्थान": [
+"rajasthan",
+0.99
+],
+"sikkim": [
+"sikkim",
+1.0
+],
+"sk": [
+"sikkim",
+0.99
+],
+"tamil nadu": [
+"tamil nadu",
+1.0
+],
+"tn": [
+"tamil nadu",
+0.99
+],
+"tamilnadu": [
+"tamil nadu",
+0.99
+],
+"தமிழ்நாடு": [
+"tamil nadu",
+0.99
+],
+"telangana": [
+"telangana",
+1.0
+],
+"tg": [
+"telangana",
+0.99
+],
+"ts": [
+"telangana",
+0.99
+],
+"తెలంగాణ": [
+"telangana",
+0.99
+],
+"tripura": [
+"tripura",
+1.0
+],
+"tr": [
+"tripura",
+0.99
+],
+"uttar pradesh": [
+"uttar pradesh",
+1.0
+],
+"up": [
+"uttar pradesh",
+0.99
+],
+"उत्तर प्रदेश": [
+"uttar pradesh",
+0.99
+],
+"uttarakhand": [
+"uttarakhand",
+1.0
+],
+"uk": [
+"uttarakhand",
+0.99
+],
+"ua": [
+"uttarakhand",
+0.99
+],
+"uttaranchal": [
+"uttarakhand",
+0.99
+],
+"उत्तराखंड": [
+"uttarakhand",
+0.99
+],
+"west bengal": [
+"west bengal",
+1.0
+],
+"wb": [
+"west bengal",
+0.99
+],
+"পশ্চিমবঙ্গ": [
+"west bengal",
+0.99
+],
+"delhi": [
+"delhi",
+1.0
+],
+"dl": [
+"delhi",
+0.99
+],
+"nct of delhi": [
+"delhi",
+0.99
+],
+"दिल्ली": [
+"delhi",
+0.99
+],
+"jammu and kashmir": [
+"jammu and kashmir",
+1.0
+],
+"jk": [
+"jammu and kashmir",
+0.99
+],
+"jammu & kashmir": [
+"jammu and kashmir",
+0.99
+],
+"ladakh": [
+"ladakh",
+1.0
+],
+"la": [
+"ladakh",
+0.99
+],
+"chandigarh": [
+"chandigarh",
+1.0
+],
+"ch": [
+"chandigarh",
+0.99
+],
+"puducherry": [
+"puducherry",
+1.0
+],
+"py": [
+"puducherry",
+0.99
+],
+"pondicherry": [
+"puducherry",
+0.99
+],
+"andaman and nicobar islands": [
+"andaman and nicobar islands",
+1.0
+],
+"an": [
+"andaman and nicobar islands",
+0.99
+],
+"lakshadweep": [
+"lakshadweep",
+1.0
+],
+"ld": [
+"lakshadweep",
+0.99
+],
+"dadra and nagar haveli and daman and diu": [
+"dadra and nagar haveli and daman and diu",
+1.0
+],
+"dn": [
+"dadra and nagar haveli and daman and diu",
+0.99
+],
+"dd": [
+"dadra and nagar haveli and daman and diu",
+0.99
+],
+"daman and diu": [
+"dadra and nagar haveli and daman and diu",
+0.99
+],
+"dadra and nagar haveli": [
+"dadra and nagar haveli and daman and diu",
+0.99
+]
+},
+"France": {
+"auvergne rhone alpes": [
+"auvergne-rhone-alpes",
+0.99
+],
+"auvergne-rhone-alpes": [
+"auvergne-rhone-alpes",
+1.0
+],
+"auvergne": [
+"auvergne-rhone-alpes",
+0.99
+],
+"rhone-alpes": [
+"auvergne-rhone-alpes",
+0.99
+],
+"rhone alpes": [
+"auvergne-rhone-alpes",
+0.99
+],
+"ain": [
+"auvergne-rhone-alpes",
+0.99
+],
+"allier": [
+"auvergne-rhone-alpes",
+0.99
+],
+"ardeche": [
+"auvergne-rhone-alpes",
+0.99
+],
+"cantal": [
+"auvergne-rhone-alpes",
+0.99
+],
+"drome": [
+"auvergne-rhone-alpes",
+0.99
+],
+"isere": [
+"auvergne-rhone-alpes",
+0.99
+],
+"loire": [
+"auvergne-rhone-alpes",
+0.99
+],
+"haute-loire": [
+"auvergne-rhone-alpes",
+0.99
+],
+"haute loire": [
+"auvergne-rhone-alpes",
+0.99
+],
+"puy de dome": [
+"auvergne-rhone-alpes",
+0.99
+],
+"puy-de-dome": [
+"auvergne-rhone-alpes",
+0.99
+],
+"rhone": [
+"auvergne-rhone-alpes",
+0.99
+],
+"savoie": [
+"auvergne-rhone-alpes",
+0.99
+],
+"haute-savoie": [
+"auvergne-rhone-alpes",
+0.99
+],
+"haute savoie": [
+"auvergne-rhone-alpes",
+0.99
+],
+"bourgogne-franche-comte": [
+"bourgogne-franche-comte",
+1.0
+],
+"bourgogne franche comte": [
+"bourgogne-franche-comte",
+0.99
+],
+"bourgogne": [
+"bourgogne-franche-comte",
+0.99
+],
+"franche-comte": [
+"bourgogne-franche-comte",
+0.99
+],
+"franche comte": [
+"bourgogne-franche-comte",
+0.99
+],
+"cote d'or": [
+"bourgogne-franche-comte",
+0.99
+],
+"cote-d'or": [
+"bourgogne-franche-comte",
+0.99
+],
+"doubs": [
+"bourgogne-franche-comte",
+0.99
+],
+"jura": [
+"bourgogne-franche-comte",
+0.99
+],
+"nievre": [
+"bourgogne-franche-comte",
+0.99
+],
+"haute-saone": [
+"bourgogne-franche-comte",
+0.99
+],
+"haute saone": [
+"bourgogne-franche-comte",
+0.99
+],
+"saone-et-loire": [
+"bourgogne-franche-comte",
+0.99
+],
+"saone et loire": [
+"bourgogne-franche-comte",
+0.99
+],
+"yonne": [
+"bourgogne-franche-comte",
+0.99
+],
+"territoire-de-belfort": [
+"bourgogne-franche-comte",
+0.99
+],
+"territoire de belfort": [
+"bourgogne-franche-comte",
+0.99
+],
+"bretagne": [
+"bretagne",
+1.0
+],
+"brittany": [
+"bretagne",
+0.99
+],
+"cotes-d'armor": [
+"bretagne",
+0.99
+],
+"cotes d'armor": [
+"bretagne",
+0.99
+],
+"finistere": [
+"bretagne",
+0.99
+],
+"ille-et-vilaine": [
+"bretagne",
+0.99
+],
+"ille et vilaine": [
+"bretagne",
+0.99
+],
+"morbihan": [
+"bretagne",
+0.99
+],
+"centre val de loire": [
+"centre-val de loire",
+0.99
+],
+"centre-val de loire": [
+"centre-val de loire",
+1.0
+],
+"centre-val-de-loire": [
+"centre-val de loire",
+0.99
+],
+"centre": [
+"centre-val de loire",
+0.99
+],
+"cher": [
+"centre-val de loire",
+0.99
+],
+"eure et loir": [
+"centre-val de loire",
+0.99
+],
+"eure-et-loir": [
+"centre-val de loire",
+0.99
+],
+"indre": [
+"centre-val de loire",
+0.99
+],
+"indre-et-loire": [
+"centre-val de loire",
+0.99
+],
+"indre et loire": [
+"centre-val de loire",
+0.99
+],
+"loir-et-cher": [
+"centre-val de loire",
+0.99
+],
+"loir et cher": [
+"centre-val de loire",
+0.99
+],
+"loiret": [
+"centre-val de loire",
+0.99
+],
+"corse": [
+"corse",
+1.0
+],
+"corsica": [
+"corse",
+0.99
+],
+"corse du sud": [
+"corse",
+0.99
+],
+"corse-du-sud": [
+"corse",
+0.99
+],
+"haute-corse": [
+"corse",
+0.99
+],
+"haute corse": [
+"corse",
+0.99
+],
+"grand est": [
+"grand est",
+1.0
+],
+"grand-est": [
+"grand est",
+0.99
+],
+"alsace": [
+"grand est",
+0.99
+],
+"lorraine": [
+"grand est",
+0.99
+],
+"champagne-ardenne": [
+"grand est",
+0.99
+],
+"champagne ardenne": [
+"grand est",
+0.99
+],
+"ardennes": [
+"grand est",
+0.99
+],
+"aube": [
+"grand est",
+0.99
+],
+"marne": [
+"grand est",
+0.99
+],
+"haute marne": [
+"grand est",
+0.99
+],
+"haute-marne": [
+"grand est",
+0.99
+],
+"meurthe-et-moselle": [
+"grand est",
+0.99
+],
+"meurthe et moselle": [
+"grand est",
+0.99
+],
+"meuse": [
+"grand est",
+0.99
+],
+"moselle": [
+"grand est",
+0.99
+],
+"bas-rhin": [
+"grand est",
+0.99
+],
+"bas rhin": [
+"grand est",
+0.99
+],
+"haut-rhin": [
+"grand est",
+0.99
+],
+"haut rhin": [
+"grand est",
+0.99
+],
+"vosges": [
+"grand est",
+0.99
+],
+"hauts-de-france": [
+"hauts-de-france",
+1.0
+],
+"hauts de france": [
+"hauts-de-france",
+0.99
+],
+"nord-pas-de-calais": [
+"hauts-de-france",
+0.99
+],
+"nord pas de calais": [
+"hauts-de-france",
+0.99
+],
+"picardie": [
+"hauts-de-france",
+0.99
+],
+"nord pas de calais picardie": [
+"hauts-de-france",
+0.99
+],
+"nord-pas-de-calais-picardie": [
+"hauts-de-france",
+0.99
+],
+"aisne": [
+"hauts-de-france",
+0.99
+],
+"nord": [
+"hauts-de-france",
+0.99
+],
+"oise": [
+"hauts-de-france",
+0.99
+],
+"pas de calais": [
+"hauts-de-france",
+0.99
+],
+"pas-de-calais": [
+"hauts-de-france",
+0.99
+],
+"somme": [
+"hauts-de-france",
+0.99
+],
+"ile-de-france": [
+"ile-de-france",
+1.0
+],
+"ile de france": [
+"ile-de-france",
+0.99
+],
+"idf": [
+"ile-de-france",
+0.99
+],
+"paris": [
+"ile-de-france",
+0.99
+],
+"seine et marne": [
+"ile-de-france",
+0.99
+],
+"seine-et-marne": [
+"ile-de-france",
+0.99
+],
+"yvelines": [
+"ile-de-france",
+0.99
+],
+"essonne": [
+"ile-de-france",
+0.99
+],
+"hauts-de-seine": [
+"ile-de-france",
+0.99
+],
+"hauts de seine": [
+"ile-de-france",
+0.99
+],
+"seine-saint-denis": [
+"ile-de-france",
+0.99
+],
+"seine saint denis": [
+"ile-de-france",
+0.99
+],
+"val de marne": [
+"ile-de-france",
+0.99
+],
+"val-de-marne": [
+"ile-de-france",
+0.99
+],
+"val d'oise": [
+"ile-de-france",
+0.99
+],
+"val-d'oise": [
+"ile-de-france",
+0.99
+],
+"normandie": [
+"normandie",
+1.0
+],
+"normandy": [
+"normandie",
+0.99
+],
+"haute normandie": [
+"normandie",
+0.99
+],
+"haute-normandie": [
+"normandie",
+0.99
+],
+"basse normandie": [
+"normandie",
+0.99
+],
+"basse-normandie": [
+"normandie",
+0.99
+],
+"calvados": [
+"normandie",
+0.99
+],
+"eure": [
+"normandie",
+0.99
+],
+"manche": [
+"normandie",
+0.99
+],
+"orne": [
+"normandie",
+0.99
+],
+"seine maritime": [
+"normandie",
+0.99
+],
+"seine-maritime": [
+"normandie",
+0.99
+],
+"nouvelle-aquitaine": [
+"nouvelle-aquitaine",
+1.0
+],
+"nouvelle aquitaine": [
+"nouvelle-aquitaine",
+0.99
+],
+"aquitaine": [
+"nouvelle-aquitaine",
+0.99
+],
+"limousin": [
+"nouvelle-aquitaine",
+0.99
+],
+"poitou charentes": [
+"nouvelle-aquitaine",
+0.99
+],
+"poitou-charentes": [
+"nouvelle-aquitaine",
+0.99
+],
+"charente": [
+"nouvelle-aquitaine",
+0.99
+],
+"charente-maritime": [
+"nouvelle-aquitaine",
+0.99
+],
+"charente maritime": [
+"nouvelle-aquitaine",
+0.99
+],
+"correze": [
+"nouvelle-aquitaine",
+0.99
+],
+"creuse": [
+"nouvelle-aquitaine",
+0.99
+],
+"dordogne": [
+"nouvelle-aquitaine",
+0.99
+],
+"gironde": [
+"nouvelle-aquitaine",
+0.99
+],
+"landes": [
+"nouvelle-aquitaine",
+0.99
+],
+"lot-et-garonne": [
+"nouvelle-aquitaine",
+0.99
+],
+"lot et garonne": [
+"nouvelle-aquitaine",
+0.99
+],
+"pyrenees atlantiques": [
+"nouvelle-aquitaine",
+0.99
+],
+"pyrenees-atlantiques": [
+"nouvelle-aquitaine",
+0.99
+],
+"deux sevres": [
+"nouvelle-aquitaine",
+0.99
+],
+"deux-sevres": [
+"nouvelle-aquitaine",
+0.99
+],
+"vienne": [
+"nouvelle-aquitaine",
+0.99
+],
+"haute-vienne": [
+"nouvelle-aquitaine",
+0.99
+],
+"haute vienne": [
+"nouvelle-aquitaine",
+0.99
+],
+"occitanie": [
+"occitanie",
+1.0
+],
+"languedoc roussillon": [
+"occitanie",
+0.99
+],
+"languedoc-roussillon": [
+"occitanie",
+0.99
+],
+"midi pyrenees": [
+"occitanie",
+0.99
+],
+"midi-pyrenees": [
+"occitanie",
+0.99
+],
+"ariege": [
+"occitanie",
+0.99
+],
+"aude": [
+"occitanie",
+0.99
+],
+"aveyron": [
+"occitanie",
+0.99
+],
+"gard": [
+"occitanie",
+0.99
+],
+"haute-garonne": [
+"occitanie",
+0.99
+],
+"haute garonne": [
+"occitanie",
+0.99
+],
+"gers": [
+"occitanie",
+0.99
+],
+"herault": [
+"occitanie",
+0.99
+],
+"lot": [
+"occitanie",
+0.99
+],
+"lozere": [
+"occitanie",
+0.99
+],
+"hautes pyrenees": [
+"occitanie",
+0.99
+],
+"hautes-pyrenees": [
+"occitanie",
+0.99
+],
+"pyrenees-orientales": [
+"occitanie",
+0.99
+],
+"pyrenees orientales": [
+"occitanie",
+0.99
+],
+"tarn": [
+"occitanie",
+0.99
+],
+"tarn-et-garonne": [
+"occitanie",
+0.99
+],
+"tarn et garonne": [
+"occitanie",
+0.99
+],
+"pays de la loire": [
+"pays de la loire",
+1.0
+],
+"pays-de-la-loire": [
+"pays de la loire",
+0.99
+],
+"loire atlantique": [
+"pays de la loire",
+0.99
+],
+"loire-atlantique": [
+"pays de la loire",
+0.99
+],
+"maine-et-loire": [
+"pays de la loire",
+0.99
+],
+"maine et loire": [
+"pays de la loire",
+0.99
+],
+"mayenne": [
+"pays de la loire",
+0.99
+],
+"sarthe": [
+"pays de la loire",
+0.99
+],
+"vendee": [
+"pays de la loire",
+0.99
+],
+"provence-alpes-cote-d'azur": [
+"provence-alpes-cote d'azur",
+0.99
+],
+"provence alpes cote d'azur": [
+"provence-alpes-cote d'azur",
+0.99
+],
+"provence-alpes-cote d'azur": [
+"provence-alpes-cote d'azur",
+1.0
+],
+"paca": [
+"provence-alpes-cote d'azur",
+0.99
+],
+"provence-alpes-cote-d-azur": [
+"provence-alpes-cote d'azur",
+0.99
+],
+"provence alpes cote d azur": [
+"provence-alpes-cote d'azur",
+0.99
+],
+"alpes de haute provence": [
+"provence-alpes-cote d'azur",
+0.99
+],
+"alpes-de-haute-provence": [
+"provence-alpes-cote d'azur",
+0.99
+],
+"hautes-alpes": [
+"provence-alpes-cote d'azur",
+0.99
+],
+"hautes alpes": [
+"provence-alpes-cote d'azur",
+0.99
+],
+"alpes maritimes": [
+"provence-alpes-cote d'azur",
+0.99
+],
+"alpes-maritimes": [
+"provence-alpes-cote d'azur",
+0.99
+],
+"bouches du rhone": [
+"provence-alpes-cote d'azur",
+0.99
+],
+"bouches-du-rhone": [
+"provence-alpes-cote d'azur",
+0.99
+],
+"var": [
+"provence-alpes-cote d'azur",
+0.99
+],
+"vaucluse": [
+"provence-alpes-cote d'azur",
+0.99
+]
+}
+}
