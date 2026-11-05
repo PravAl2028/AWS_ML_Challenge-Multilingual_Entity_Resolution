@@ -1,5 +1,8 @@
 # Business entity resolution (Team Sandipani)
 
+**Team Name:** Team Sandipani  
+**Team Members:** Praval Anachi (team lead), Reddymalla Dilip, Sohan Dintakurthi, Pathak Akshith Kumar
+
 This folder regenerates `matching_results.tsv` and `candidate_pairs.tsv` from the challenge's training and test files
 with one command. The submitted files come from version v14 of the pipeline (public leaderboard F0.5 0.991514). The
 method, the design decisions and the results are described in `Documentation_template.md` at the root of the
